@@ -1,4 +1,5 @@
-Windu Resulusi 2020
+Windu Resolusi 2020
 - Pahami python dasar
 - Pahami python OOP
 - Pahami python for data analys
+- Belajar Odoo
