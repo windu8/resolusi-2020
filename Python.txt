@@ -1,5 +1,6 @@
 Windu Resolusi 2020
-- Pahami python dasar
-- Pahami python OOP
-- Pahami python for data analys
+- Pahami Python Dasar
+- Pahami Python OOP
+- Pahami Python Object Oriented Design
+- Pahami Python for data analys
 - Belajar Odoo
