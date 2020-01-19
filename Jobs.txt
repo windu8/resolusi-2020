@@ -22,3 +22,7 @@ Pertanyaan yang akan kamu hadapi:
 =================
 - Machine Learning (ML) Engineer
 ==================================
+- Softwate to learn
+  * Python
+  * SQL
+  * Tableau
