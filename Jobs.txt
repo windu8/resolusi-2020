@@ -1,0 +1,24 @@
+- Data Engineer
+================
+Uraian pekerjaan: kamu akan mengelola jalur pipa data untuk perusahaan yang menangani volume data besar. Itu berarti memastikan     bahwa data kamu sedang dikumpulkan dan diambil secara efisien dari sumbernya ketika dibutuhkan, dibersihkan, dan diproses sebelumnya.
+
+Mengapa ini penting: Jika kamu hanya pernah bekerja dengan set data yang relatif kecil (kurang dari 5 GB) dalam file .csv atau .txt, mungkin kamu akan sulit untuk memahami mengapa ada orang yang memiliki pekerjaan penuh waktu dan memelihara jalur pipa data.
+
+Berikut beberapa alasannya:
+
+    Data 50 GB tidak muat di RAM komputer, jadi kamu biasanya perlu cara lain untuk memasukkannya ke dalam model yang kamu buat.
+    Banyak data bisa membutuhkan banyak waktu untuk diproses dan sering kali harus disimpan berkali-kali. Mengelola penyimpanan itu membutuhkan pengetahuan teknik khusus.
+
+Persyaratan: Teknologi yang akan kamu gunakan termasuk Apache Spark, Hadoop dan/atau Hive, serta Kafka. Kemungkinan besar kamu juga harus memiliki dasar yang kuat dalam SQL.
+
+Pertanyaan yang akan kamu hadapi:
+
+    Bagaimana cara membangun saluran pipa yang dapat menangani 10.000 permintaan per menit?
+    Bagaimana saya bisa membersihkan set data ini tanpa memuat semuanya dalam RAM?
+
+- Data Analyst
+=================
+- Data Scientist
+=================
+- Machine Learning (ML) Engineer
+==================================
